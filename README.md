@@ -2,34 +2,39 @@
 
 ## 1、技术栈
 
-1) 、npm
+1. 、npm
 这是一个js的包管理工具，项目一些库和插件可以直接从里面安装
-2）、Vue
+2. 、Vue
 前端的框架，是搭建项目的主体，vue的全家桶在项目中会体现
-3）、Vue-cli
+3. 、Vue-cli
 Vue-cli是一个脚手架，能够帮助开发快速创建一个Vue项目
-4）、MUI
+4. 、MUI
 接近原生APP的前端框架，项目中会使用该框架中的一些组件
-5）、Mint-ui
+5. 、Mint-ui
 这是一款基于Vue.js的移动端的框架，不过功能较少，一些组件在项目中会使用到
-6）、Vuex
+6. 、Vuex
 专为 Vue.js 应用程序开发的状态管理模式,一般用于存储项目中的公共变量或者说数据
-7)、webpack
+7. 、webpack
 webpack是一个构建工具，主要用来管理项目和打包文件，处理一些低级的ES6语法
-8）、babel
+8. 、babel
 babel是一个JS的编译器，可以帮助我们处理一些高级的ES6语法，转换成浏览器能识别的ES5语法
 
 ## 2、用(传统方式)命令行把修改过后的代码上传到码云或者上传到GitHub上面
 
-Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git 是 Linus Torvalds 为了帮助管理 Linux 
+Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。
 主要的git指令
-1） git add .
-2） git commit -m "提交信息"
-3） git push origin master
+1. git add .
+2. git commit -m "提交信息"
+3. git push origin master
 
 ## 3、项目的一些展示效果
-1)、项目的首页截图
-
+1. 、项目的首页截图
+2. 图片资讯列表
+![](https://github.com/QLXLJ/IMG/raw/master/%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png)
+3. 图片分享列表
+![](https://github.com/QLXLJ/IMG/raw/master/%E5%9B%BE%E7%89%87%E5%88%86%E4%BA%AB.png)
+4. 商品的购买
+![](https://github.com/QLXLJ/IMG/raw/master/%E5%95%86%E5%93%81%E8%B4%AD%E4%B9%B0.png)
 ## 3、
 ## 制作首页App组件
 1. 完成 Header 区域，使用的是 Mint-UI 中的Header组件

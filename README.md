@@ -28,22 +28,26 @@ Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有
 3. git push origin master
 
 ## 3、项目的一些展示效果
-1. 项目的首页截图
+1. 项目的首页截图  
 
 
 
 
-2. 图片资讯列表
+
+2. 图片资讯列表  
+***
 ![](https://github.com/QLXLJ/IMG/raw/master/%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png)
 
-
-3. 图片分享列表
+***
+3. 图片分享列表  
+***
 ![](https://github.com/QLXLJ/IMG/raw/master/%E5%9B%BE%E7%89%87%E5%88%86%E4%BA%AB.png)
 
-
-4. 商品的购买
+***
+4. 商品的购买  
+***
 ![](https://github.com/QLXLJ/IMG/raw/master/%E5%95%86%E5%93%81%E8%B4%AD%E4%B9%B0.png)
-
+***
 
 
 
